@@ -26,5 +26,4 @@ The name of the Editor, used for logging purposes.
 
 ## sublime
 
-An instance of [Editor](./api/Editor.md). Connect to must be called manually to start the connection. 
-
+An instance of [Editor](./api/Editor.md). The `connect` method must be called manually to start the connection. 
